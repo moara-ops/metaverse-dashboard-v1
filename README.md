@@ -1,4 +1,4 @@
-# Metaverse Dashboard (Codename Iamus)
+# Metaverse Dashboard (Codename Orion)
 
 ## deployment
 
